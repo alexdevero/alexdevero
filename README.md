@@ -45,3 +45,5 @@ Here are some ideas to get you started:
 ### 📈 My stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexdevero)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexdevero&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
