@@ -22,14 +22,14 @@ I am a Full-stack Developer and founder from Czechia.
 How to reach me:
 
 <div id="badges">
-  <a href="https://cz.linkedin.com/in/alexdevero">
-    <img src="https://img.shields.io/badge/LinkedIn-white?style=flatlogo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://twitter.com/alexdevero">
     <img src="https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter&logoColor=black" alt="Twitter Badge"/>
   </a>
   <a href="https:/github.com/alexdevero">
-    <img src="https://img.shields.io/badge/Github-whtie?style=flat&logo=github&logoColor=black" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Github-white?style=flat&logo=github&logoColor=black" alt="Twitter Badge"/>
+  </a>
+  <a href="https://cz.linkedin.com/in/alexdevero">
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=flatlogo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
   </a>
 </div>
 
