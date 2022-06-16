@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 👨‍💻 About me
+
+I am a Full-stack Developer and founder from Czechia.
+
 ### 🔧 Technologies and tools
 
 <div>
