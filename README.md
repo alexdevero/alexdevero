@@ -1,10 +1,10 @@
 # Hi there 👋
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://cz.linkedin.com/in/alexdevero">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flatlogo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/alexdevero">
     <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
