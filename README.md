@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am a Full-stack Developer and founder from Czechia.
 
-How to  reach me:
+How to reach me:
 
 <div id="badges">
   <a href="https://cz.linkedin.com/in/alexdevero">
@@ -27,6 +27,9 @@ How to  reach me:
   </a>
   <a href="https://twitter.com/alexdevero">
     <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https:/github.com/alexdevero">
+    <img src="https://img.shields.io/badge/Github-white?style=flat&logo=github&logoColor=black" alt="Twitter Badge"/>
   </a>
 </div>
 
