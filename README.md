@@ -1,14 +1,5 @@
 # Hi there 👋
 
-<div id="badges">
-  <a href="https://cz.linkedin.com/in/alexdevero">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flatlogo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/alexdevero">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
 <!--
 **alexdevero/alexdevero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,6 +18,17 @@ Here are some ideas to get you started:
 ## 👨‍💻 About me
 
 I am a Full-stack Developer and founder from Czechia.
+
+How to  reach me:
+
+<div id="badges">
+  <a href="https://cz.linkedin.com/in/alexdevero">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flatlogo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/alexdevero">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ### 🔧 Technologies and tools
 
