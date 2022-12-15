@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About me
 
-I am a Full-stack Developer and founder from Czechia.
+I am a full-stack developer, with focus on frontend, and founder from Czechia.
 
-How to reach me:
+- 🔭 I’m currently working on mainly two things: cool app for digitizing accounting and new project/startup
+- 🌱 I’m currently learning computer science, machine learning and backend
+- 📫 How to reach me:
 
 <div id="badges">
   <a href="https://twitter.com/alexdevero">
