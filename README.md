@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 
 I am a full-stack developer, with focus on frontend, and founder from Czechia.
 
-- 🔭 I’m currently working on mainly two things: cool app for digitizing accounting and new project/startup
-- 🌱 I’m currently learning computer science, machine learning and backend
+- 🔭 I’m currently working on mainly two things: cool app for digitizing accounting and new project/startup based on ideas 
+- 🌱 I’m currently learning few things:
+  - subjects/areas: Computer science, machine learning engineering, backend in Node.js and Python
+  - Languages: Python, C and a bit of Assembly
 - 📫 How to reach me:
 
 <div id="badges">
