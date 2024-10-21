@@ -22,15 +22,23 @@ I am a full-stack developer, with focus on frontend, and founder from Czechia.
 - 🔭 I’m currently working on mainly two things: cool app for digitizing accounting and new project/startup based on ideas 
 - 🌱 I’m currently learning few things:
   - subjects/areas: Computer science, machine learning engineering, backend in Node.js and Python
-  - Languages: Python, C and a bit of Assembly
+  - Languages: Python, Go, C and a bit of Assembly
 - 📫 How to reach me:
 
 <div id="badges">
+  <a href="https://alexdevero.com">
+    <img alt="Website Badge" src="https://img.shields.io/badge/website-white">
+  </a>
+  <!--
   <a href="https://twitter.com/alexdevero">
     <img src="https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter&logoColor=black" alt="Twitter Badge"/>
   </a>
+  -->
   <a href="https:/github.com/alexdevero">
     <img src="https://img.shields.io/badge/Github-white?style=flat&logo=github&logoColor=black" alt="Twitter Badge"/>
+  </a>
+  <a href="https://substack.com/@alexdevero">
+    <img alt="Substack Badge" src="https://img.shields.io/badge/substack-white" />
   </a>
   <a href="https://cz.linkedin.com/in/alexdevero">
     <img src="https://img.shields.io/badge/LinkedIn-white?style=flatlogo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
