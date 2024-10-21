@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am a full-stack developer, with focus on frontend, and founder from Czechia.
 
-- 🔭 I’m currently working on mainly two things: cool app for digitizing accounting and new project/startup based on ideas 
+- 🔭 I’m currently working on mainly two things: getting my software company off the ground and new hobby/business projects to make people's lives better
 - 🌱 I’m currently learning few things:
   - subjects/areas: Computer science, machine learning engineering, backend in Node.js and Python
   - Languages: Python, Go, C and a bit of Assembly
@@ -55,6 +55,7 @@ I am a full-stack developer, with focus on frontend, and founder from Czechia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQl" **alt="PostgreSQl" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40" />&nbsp;
