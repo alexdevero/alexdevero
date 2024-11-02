@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About me
 
-I am a full-stack developer, with focus on frontend, and founder from Czechia. I am currently open for freelance projects.
+I am a full-stack developer, with focus on frontend, and founder from Czechia. I am currently open to work on freelance projects.
 
 - 🔭 I’m currently working on mainly two things: getting my software company off the ground and new hobby/business projects to make people's lives better
 - 🌱 I’m currently learning few things:
