@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About me
 
-I am a full-stack developer, with focus on frontend, and founder from Czechia. I am currently open to work on freelance projects.
+I am a passionate full-stack TypeScript developer from the Czech Republicwith over 10 years of experience. I specialize in building scalable, high-performance web applications with focus on UX, using React and Next.js. I work with individuals, startups, and businesses to help them bring their digital visions to life.
+
+With a strong background in product design, I strive to bridge the gap between functionality and user experience. My mission is to leverage technology to solve real-world problems and enhance people's lives.
+
+I am currently open to remote work on hourly or project budget basis. 
 
 - 🔭 I’m currently working on mainly two things: getting my software company off the ground and new hobby/business projects to make people's lives better
 - 🌱 I’m currently learning few things:
